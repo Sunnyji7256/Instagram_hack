@@ -1,5 +1,5 @@
 #bin/bash
-#script By Noob Hackers
+#script By Sunny Ji 🇮🇳
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
@@ -83,9 +83,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Sunny Ji << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Coming Soon.....\e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -114,9 +114,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Sunny Ji << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Coming Soon...... \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
@@ -143,11 +143,11 @@ elif [[ $option == 4 || $option == 04 ]]; then
 cd $HOME/ighack/core
 bash update.sh
 elif [[ $option == 5 || $option == 05 ]]; then
-am start -a android.intent.action.VIEW -d https://bit.ly/nhytchannel > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d > /dev/null 2>&1
 banner
 menu1
 elif [[ $option == 6 || $option == 06 ]]; then
-am start -a android.intent.action.VIEW -d https://tinyurl.com/whatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d > /dev/null 2>&1
 banner
 menu1
 elif [[ $option == 7 || $option == 07 ]]; then
@@ -253,8 +253,8 @@ echo -e "
       ╰━━━━━━━━━━━━━╯
 "
 center "^CHECKING DONE^"
-echo -e "\e[93m                     Subscribe On Youtube\e[92m"
-center "<NOOB HACLERS>"
+echo -e "\e[93m                    \e[92m"
+center "<>"
 sleep 20.0
 more
 }
