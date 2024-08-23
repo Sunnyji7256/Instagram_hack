@@ -1,3 +1,5 @@
+#Sunny ji
+
 cd $HOME/ighack/core                                                                                   
 update(){                                                                                                             
 if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/ighackpatch.v.1 2>/dev/null; then
@@ -104,3 +106,4 @@ echo
 fi
 }
 dbox
+
