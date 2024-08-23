@@ -1,33 +1,21 @@
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
-<a href="https://bit.ly/30yDbd5"><img title="Version" src="https://img.shields.io/badge/Version-3.1-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/30yDbd5"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
-</p>
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/ighack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
+# ```Instagram Brute Force```
+
+# Owenr Information 
+```Name : Sunny Ji 🇮🇳```
+
+Follow On Github         
+<a align="center">
+<a href="https://github.com/Sunnyji7256"><img height="40px" title="Github" src="https://img.shields.io/badge/Sunny-Ji-blue?style=for-the-badge&logo=github"></a>               
+Telegram Channel          
+<a align="center">
+<a href="https://t.me/Noob_to_pro_hack"><img height="40px" title="Telegram" src="https://img.shields.io/badge/Hacking by-Noob hacker-red?style=for-the-badge&logo=telegram"></a>
+Telegram I'd                
+<a align="center">
+<a href="https://t.me/Sunny_ki_duniya"><img height="40px" title="Telegram" src="https://img.shields.io/badge/Sunny-Ji 🇮🇳-pink?style=for-the-badge&logo=telegram"></a>
 
 ## ABOUT TOOL :
 
 Ighack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
-
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
 
 ## AVAILABLE ON :
 
@@ -57,7 +45,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/ighack`
+* `git https://github.com/Sunnyji7256/Instagram_hack`
 * `cd $HOME`
 * `ls`
 * `cd ighack`
