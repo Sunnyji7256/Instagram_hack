@@ -48,7 +48,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `git clone https://github.com/Sunnyji7256/Instagram_hack.git`
 * `cd $HOME`
 * `ls`
-* `cd ighack`
+* `cd Instagram_hack`
 * `ls`
 * `bash setup`
 * `bash ighack.sh`
